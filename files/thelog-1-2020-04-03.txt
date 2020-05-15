@@ -1,0 +1,152 @@
+8:44 - starting script
+
+8:46 - Leviathan introduces itself, changes my name to Jake, and brings some friends along.
+
+8:48 - Dave is from South River, but it sounds like a rough place. Kevin appears.
+
+8:50 - Kevin is a pretty morose dude. Rather than pulling that thread, we shuffle the folks out.
+
+8:54 - For petty revenge, I change Leviathan's name to Trundleborg. Jake is dead.
+
+... also I reject its attempt to call itself TM for short.
+
+8:56 - It's a war of escalation. Is that a thing? ... I think it is. Trundleborg makes me say stuff now.
+
+(this is Cannonball Adderley's Soul Zodiac)
+
+8:58 - Trundlebard is a better name, it's true.
+
+8:59 - The kind of shit it just generated is when it's the most satisfying. Like, now we've got a thread of conversation going. And it asked a logical followup. Waaaaaaugh!
+
+9:04 - Am I a little high? Yes. I mean. What even is this?
+
+like a weird performance piece.
+
+9:05 - Trundleborg agrees that we've become completely incoherent. Let's reset the model and try one more time.
+
+I haven't seen West World, but I want to say that it feels West Worldy to me that I can just reset the program if I'm not super happy with the content.
+
+Anyway, it's ready.
+
+9:06 - Attempt number three. I remembered Trumblebard at last minute.
+
+9:09 - Let's see what happens if we restrict the conversation to just me and the computer. I'll pull out extra characters if they get added for this iteration.
+
+9:10 - Trundlebard tells me about Troldlebard. I don't know what to say.
+
+9:11 - Trodldlebard? tehy's fine
+
+9:12 - Trundlebard knows I can be a condescending jerk. It's not wrong. I'll own this.
+
+The bars ("|") that keep getting added to the text? Those are part of the script, to help me keep track of where I trigger each iteration.
+
+9:14 - After being temporarily weirded out that I didn't include "PM" with the timestamps, I return to the task of logging. I... am terrified. Trundlebard has become something else. Something, unexpected.
+
+9:20 - This is it, guys. This is where we learn the answer to everything.
+
+...oooor maybe not.
+
+BE WARE OF A GEM IN EYE
+
+you might need to be stoned to consume this media.
+
+I'm going to let this conversation play out.
+
+9:22 - The conversation is playing out.
+
+I can't always get the files to go on for very long. Eventually the script crashes. Something to do with the length of the sample maybe? I'm not really sure.
+
+In any case, it's possible we'll see it crash around now.
+
+But let's see how long we can go.
+
+9:24 - Things are getting weird. Again.
+
+There's about 25 minutes left in this album. When Soul Zodiac wraps up, I'll finish this up.
+
+Shortly, I'm going to generate the --
+
+oh, interesting things are happening.
+
+please nobody start a cult based on the ravings of this language model.
+
+there's probably not really anything called a "phonoystic" or "phonoytytic shell genes"
+
+I'm not a doctor, though.
+
+That's embarrassing. Thought I'd already pressed enter.
+
+I wouldn't have wasted so much time.
+
+this horn is freaking me out
+
+Okay, anyway.
+
+As I was saying earlier.
+
+I'm going to generate a poem in a minute, because I've been doing one a day for National Poetry Month because I'm that kind of nerd.
+
+That may or may not be interesting. But I'll let this stream play out while I do it.
+
+I hope TRUNDLEBARD just says, "no"
+
+9:30 - Will Trundlebard say no?
+
+Cancer and Taurus are the two tracks left after this. Taurus is about 14 minutes long.
+
+This is dorky, but do you think Trundlebard's writing sounds like how the moles speak in the Redwall books? 
+
+Is that a deep cut?
+
+Okay, Trundlebard. Let's see if you have anything left to say.
+
+Apparently this music is not uh like, totally family friendly.
+
+Okay.
+
+Trundlebard didn't say no. That's all.
+
+9:36 - Said goodnight to Trundlebard, and starting generating a poem for day 4 of National Poetry Month.
+
+When I generate poems using the model, I try to get the title of the poem and the first line using this narrative structure. What's kinda goofy is that the language model (GPT-2 1558M) likes to editorialize after it names the poem, almost every time.
+
+It's pretty good at naming things. The name of the book it's writing, "In Times We Laugh Like This," was the very first book title it came up with. Seemed too solid to pass up.
+
+The first poem, An Invitation., came before we named the book. Used the instance of the model that built that poem to name the book.
+
+That's a pretty solid first line.
+
+Now I restructure the file to pull out the extra narrative stuff, and just stick to the poem content.
+
+9:41 - Got the title of the poem, "Asleep on the Streets," and the first line. Starting to generate the rest of the content now.
+
+Sometimes I don't mess with them much at all.
+
+I usually try to make as few edits as possible, because I find it so satisfying to see the bizarre stuff this thing comes up with.
+
+It seemed like it wanted to do two long lines at first, so I'll help it keep that shape for now. If it starts to shorten the lines again, I'll restructure the lines to match, that is.
+
+This is one of those times where I want to see what else it does now, so I'll keep a copy of the poem at this point. I'll probably come back to this version and remove the "Thoughts in a Dream" stuff and on, and try to let it finish the line.
+
+When it starts to fragment the style like this, it can't always recover coherency.
+
+Pretty coherent, an interesting turn to take. We'll store these, maybe it can write on those over the next couple days.
+
+9:47 - Removed some text to restart the generation on the fragment of line 4.
+
+About 2:30 left in the album.
+
+9:50 - That's an unusually solid one. It usually takes longer.
+
+Anyway, that's the end of Soul Zodiac, put together by Cannonball Adderley.
+The vocalist is Rick Holmes, I love the work he does on this album. I can't
+stop listening to it. I recommend taking a listen to more of Cannonball's
+work. We're on a first name basis.
+
+...no, we're not.
+
+It's good stuff though.
+
+Thanks!
+
+
